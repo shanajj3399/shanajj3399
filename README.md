@@ -23,5 +23,5 @@ Skills:  HTML / CSS / Tailwind / Bootstrap /JavaScript (ES6+) / React.js / Redux
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shanajj3399)](https://github.com/anuraghazra/github-readme-stats)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=shanajj3399&show_icons=true)  
+  
 
